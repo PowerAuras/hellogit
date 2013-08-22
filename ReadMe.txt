@@ -1,4 +1,3 @@
-
 Reachability
 ============
 The Reachability sample application demonstrates how to use the System Configuration framework to monitor the network state of an iOS device. In particular, it demonstrates how to know when IP can be routed and when traffic will be routed through a Wireless Wide Area Network (WWAN) interface such as EDGE or 3G.
@@ -36,3 +35,4 @@ APLViewController.{h,m}
 =============================================
 Copyright (C) Apple Inc. All rights reserved.
 
+°¥ßÏ
